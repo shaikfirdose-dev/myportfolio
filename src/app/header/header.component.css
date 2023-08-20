@@ -1,0 +1,47 @@
+.brand-style{
+    color:black;
+    font-weight: bolder;
+    font-size: 25px;
+    padding-left: 50px;
+}
+.font-style{
+    color:black;
+    font-weight: bolder;
+    font-size: large;
+    margin-left: 30px;
+}
+#navcontent{
+    padding-left: 920px;
+}
+nav{
+    padding-top: 20px;
+}
+
+.container{
+    padding-top: 160px;
+}
+.card-border{
+    border-color: white;
+    padding-left: 100px;
+}
+h1{
+    font-family: 'Varela Round', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+a:hover{
+    color: #aa00ff;
+}
+img{
+    border-radius: 150px;
+    height: 300px;
+    width: 350px;
+}
+.btn{
+    width: 120px;
+    border-radius: 18px;
+}
+.role{
+    font-size: 40px;
+}

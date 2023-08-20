@@ -1,0 +1,75 @@
+.header{
+    color:white;
+    padding-top: 60px;
+    padding-left: 70px;
+}
+.card{
+    margin-top:25px;
+    margin-left: 350px;
+    width:900px;
+    height: 500px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)20px;
+    
+}
+.color-div{
+    width:300px;
+    height: 500px;;
+    background-color: #4E5DC0;
+}
+.text-default{
+    color:white;
+    font-weight:bold;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.email{
+    margin-top: 100px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.icon1{
+    width: 40px;
+    height: 32px;
+    border-radius: 5px;
+    margin-left: 130px;
+    padding-top: 1px;
+    font-size: 20px;
+    color: white;
+}
+.icon2{
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+}
+.icon3{
+    font-size: 20px;
+    color: white;
+    margin-left: 20px;
+}
+.icon4{
+    font-size: 20px; 
+    color: white;
+    margin-left: 20px;
+}
+
+.icons{
+    display: flex;
+    margin-top: 250px;
+}
+.p{
+    margin-top: 30px;
+    padding-left: 25px;
+}
+.details{
+    margin-top: 50px;
+    margin-left: 60px;
+}
+.ic{
+    margin-top: 20px;
+}
+.info{
+    padding-left: 30px;
+}

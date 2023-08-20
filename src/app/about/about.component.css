@@ -1,0 +1,49 @@
+.image{
+    height: 380px;
+    width: 190px;
+    margin-left: 120px;
+    background-color: aqua;
+}
+.card-image1{
+    width:400px;
+    margin-left: 30px;
+}
+.card{
+    border-radius: 30px;
+    height: 420px;
+}
+.row{
+    margin-top: 20px;
+}
+.image1{
+    height: 380px;
+    width: 400px;
+    border-radius: 30px;
+}
+
+.designation{
+    color:#aa00ff;
+    padding-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 20px;;
+}
+.heading{
+    background-color: #546E7A;
+    height: 100px;
+    color:white;
+    padding-left: 1200px;
+    padding-top: 25px;
+}
+.exp{
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.logo{
+    width: 40px;
+    height: 40px;
+}
